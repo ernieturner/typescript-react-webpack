@@ -1,0 +1,30 @@
+{
+  "name": "typescriptex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "webpack": "webpack-dev-server --config webpack/dev.config.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/react": "^15.0.0",
+    "@types/react-dom": "^0.14.20",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  },
+  "devDependencies": {
+    "awesome-typescript-loader": "^3.0.0-beta.18",
+    "babel-core": "^6.21.0",
+    "babel-loader": "^6.2.10",
+    "babel-preset-latest": "^6.16.0",
+    "babel-preset-react": "^6.16.0",
+    "grunt": "^1.0.1",
+    "grunt-webpack": "v2.0.0-beta.6",
+    "source-map-loader": "^0.1.6",
+    "typescript": "^2.1.5",
+    "webpack": "beta",
+    "webpack-dev-server": "2.2.0"
+  }
+}
