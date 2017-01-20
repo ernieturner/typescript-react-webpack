@@ -1,14 +1,15 @@
 {
     "compilerOptions": {
-        "outDir": "./dist/",
         "sourceMap": true,
         "noImplicitAny": true,
-        "module": "commonjs",
+        "noImplicitThis": true,
+        "strictNullChecks": true,
+        "module": "ES6",
         "target": "es6",
-        "jsx": "react"
+        "jsx": "preserve"
     },
     "include": [
-        "./app/**/*"
+        "./app/*"
     ],
     "awesomeTypescriptLoaderOptions": {
         "useCache": true

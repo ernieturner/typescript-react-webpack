@@ -20,9 +20,6 @@
     "babel-loader": "^6.2.10",
     "babel-preset-latest": "^6.16.0",
     "babel-preset-react": "^6.16.0",
-    "grunt": "^1.0.1",
-    "grunt-webpack": "v2.0.0-beta.6",
-    "source-map-loader": "^0.1.6",
     "typescript": "^2.1.5",
     "webpack": "beta",
     "webpack-dev-server": "2.2.0"
