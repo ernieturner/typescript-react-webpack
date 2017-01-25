@@ -1,9 +1,8 @@
 import * as React from "react";
 import * as ReactDOM from "react-dom";
-
-import {Button} from "./components/Button";
+import {App} from './components/App';
 
 ReactDOM.render(
-    <Button compiler="TypeScript" framework="React"/>,
+    <App/>,
     document.getElementById("root")
 );

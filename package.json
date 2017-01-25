@@ -15,11 +15,15 @@
     "react-dom": "^15.4.2"
   },
   "devDependencies": {
+    "@types/lodash": "^4.14.50",
     "awesome-typescript-loader": "^3.0.0-beta.18",
     "babel-core": "^6.21.0",
     "babel-loader": "^6.2.10",
     "babel-preset-latest": "^6.16.0",
     "babel-preset-react": "^6.16.0",
+    "lodash": "^4.17.4",
+    "tweetnacl": "^0.14.5",
+    "tweetnacl-util": "^0.13.5",
     "typescript": "^2.1.5",
     "webpack": "beta",
     "webpack-dev-server": "2.2.0"

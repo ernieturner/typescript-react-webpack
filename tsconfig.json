@@ -4,7 +4,7 @@
         "noImplicitAny": true,
         "noImplicitThis": true,
         "strictNullChecks": true,
-        "module": "ES6",
+        "module": "commonjs",
         "target": "es6",
         "jsx": "preserve"
     },
